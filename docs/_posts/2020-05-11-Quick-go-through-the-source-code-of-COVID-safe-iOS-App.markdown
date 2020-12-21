@@ -13,7 +13,8 @@ From the mobile client, the App logic is very simple, the first step is to get y
 
 The App will share the information between devices, in the background, it will find the same services with other Bluetooth devices. The Bluetooth Central will connect with other Bluetooth peripherals and write this device information like this
 `{"modelP":"iPhone XR","org":"AU_DTA","msg":"***","v":1}`The other devices will keep this in a local database with this model
-![DataModel](../images/4255b5e9-2f28-4bbf-be92-72efbda2df4b.png)
+![DataModel](https://flyperstudio.github.io/images/4255b5e9-2f28-4bbf-be92-72efbda2df4b.png)
+
 For each communication, there's no data uploaded to the server.
 
 So it just collected all the data from other devices and keep it in local, when you click the "Has a health official contacted you?" button, it will upload all local data to the server. So I guess from the server side it will send push notification to all the devices it kept in the local database.
