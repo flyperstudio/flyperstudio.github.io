@@ -16,13 +16,13 @@ permalink: /4b5c-en/
 
 ### 1. Select Question
 
-- On the homepage, you can choose to take a picture with the camera or select a picture from your photo album.![](https://github.com/flyperstudio/flyperstudio.github.io/blob/master/docs/images/4b5c/image_crop.png)
+- On the homepage, you can choose to take a picture with the camera or select a picture from your photo album.![](https://www.flyperstudio.com/images/4b5c/image_crop.png)
 - Currently, only multiple-choice questions with only text are supported. If the question contains tables, images, or geometric figures, it cannot be recognized.
-- After selecting the picture, you can crop it to ensure that there is only one question in the picture.![](https://github.com/flyperstudio/flyperstudio.github.io/blob/master/docs/images/4b5c/image_crop.png)
+- After selecting the picture, you can crop it to ensure that there is only one question in the picture.![](https://www.flyperstudio.com/images/4b5c/image_crop.png)
 
 ### 2. Analyze Question
 
-- Click the "Analyze" button and wait for about 1 minute. The background will provide the analysis result.![](https://github.com/flyperstudio/flyperstudio.github.io/blob/master/docs/images/4b5c/analysis_image.png)
+- Click the "Analyze" button and wait for about 1 minute. The background will provide the analysis result.![](https://www.flyperstudio.com/images/4b5c/analysis_image.png)
 
 ### 3. Save Solution
 
@@ -31,7 +31,7 @@ permalink: /4b5c-en/
 ### 4. View History
 
 - You can view saved analysis results on the "History" page.
-- Click the analysis result to view the detailed solution and similar questions.![](https://github.com/flyperstudio/flyperstudio.github.io/blob/master/docs/images/4b5c/regenerate_qa.png)
+- Click the analysis result to view the detailed solution and similar questions.![](https://www.flyperstudio.com/images/4b5c/regenerate_qa.png)
 
 ## Free Usage
 
