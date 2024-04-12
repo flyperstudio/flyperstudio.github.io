@@ -2,7 +2,7 @@
 layout: post
 title: "4B5C App User Manual.md"
 date: 2024-04-12 15:25:16 +1100
-categories: tech blog
+permalink: /4b5c-en/
 ---
 
 4B5C App (Four Books and Five Classics App) is an application designed to help parents better tutor their children's homework. The application utilizes artificial intelligence technology to automatically recognize and parse multiple-choice questions from user and provides detailed solutions and similar questions. All data is stored locally and will not be uploaded to the server, ensuring user privacy.
