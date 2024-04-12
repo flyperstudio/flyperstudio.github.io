@@ -5,7 +5,7 @@ date: 2024-04-12 15:25:16 +1100
 permalink: /4b5c-en/
 ---
 
-4B5C App (Four Books and Five Classics App) is an application designed to help parents better tutor their children's homework. The application utilizes artificial intelligence technology to automatically recognize and parse multiple-choice questions from user and provides detailed solutions and similar questions. All data is stored locally and will not be uploaded to the server, ensuring user privacy.
+4B5C App is an application designed to help parents better tutor their children's homework. The application utilizes artificial intelligence technology to automatically recognize and parse multiple-choice questions from user and provides detailed solutions and similar questions. All data is stored locally and will not be uploaded to the server, ensuring user privacy.
 
 ## Installation
 
@@ -31,8 +31,8 @@ permalink: /4b5c-en/
 ### 4. View History
 
 - You can view saved analysis results on the "History" page.
-- Click the analysis result to view the detailed solution and similar questions.
-<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
+- Switch on the analysis result to view the detailed solution 
+- Click "regenerate", AI will generate similar questions.<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
 
 ## Free Usage
 

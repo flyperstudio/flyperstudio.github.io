@@ -31,7 +31,8 @@ permalink: /4b5c-cn/
 ### 4. 查看历史记录
 
 - 在“历史记录”页面中可以查看保存的解析结果。
-- 点击解析结果可以查看详细解答和类似题目。<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
+- 打开解析结果可以查看详细解答。
+- 点击类似题目， 人工智能可以自动生成类似的题目。<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
 
 ## 免费使用
 
