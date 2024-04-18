@@ -17,7 +17,6 @@ permalink: /4b5c-en/
 ### 1. Select Question
 
 - On the homepage, you can choose to take a picture with the camera or select a picture from your photo album.<img src="https://www.flyperstudio.com/images/4b5c/main_page.png" width="200" />
-- Currently, only multiple-choice questions with only text are supported. If the question contains tables, images, or geometric figures, it cannot be recognized.
 - After selecting the picture, you can crop it to ensure that there is only one question in the picture.<img src="https://www.flyperstudio.com/images/4b5c/image_crop.png" width="200" />
 
 ### 2. Analyze Question
@@ -33,6 +32,7 @@ permalink: /4b5c-en/
 - You can view saved analysis results on the "History" page.
 - Switch on the analysis result to view the detailed solution 
 - Click "regenerate", AI will generate similar questions.<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
+- AI regenerate only support multiple-choice questions with text only. If the question contains tables, images, or geometric figures, it cannot be regenerated.
 
 ## Free Usage
 

@@ -17,7 +17,6 @@ permalink: /4b5c-cn/
 ### 1. 选择题目
 
 - 首页可以选择使用相机拍照或从照片中选择题目。<img src="https://www.flyperstudio.com/images/4b5c/main_page.png" width="200" />
-- 目前仅支持识别只有文字的选择题，如果题目包含表格、图片或几何图形，则无法识别。
 - 选择图片后，可以进行剪裁，确保图片中只有一道题目。<img src="https://www.flyperstudio.com/images/4b5c/image_crop.png" width="200" />
 
 ### 2. 解析题目
@@ -32,7 +31,8 @@ permalink: /4b5c-cn/
 
 - 在“历史记录”页面中可以查看保存的解析结果。
 - 打开解析结果可以查看详细解答。
-- 点击类似题目， 人工智能可以自动生成类似的题目。<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
+- 点击类似题目， AI可以自动生成类似的题目。<img src="https://www.flyperstudio.com/images/4b5c/regenerate_qa.png" width="200" />
+- AI换题现在只支持纯文字的题目，如果问题或者答案中有图片，几何图形，图表，这个功能暂时无法使用。
 
 ## 免费使用
 
