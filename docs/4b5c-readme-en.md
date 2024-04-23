@@ -9,7 +9,7 @@ permalink: /4b5c-en/
 
 ## Installation
 
-- iOS Installation: Please refer to the [iOS Installation Guide](https://learn.microsoft.com/en-us/appcenter/distribution/testers/testing-ios)
+- iOS Installation: Please refer to the [How to use TestFlight to test iOS App](https://www.google.com/search?sca_esv=f9e9aef3ae3c6c42&rlz=1C5CHFA_enAU851AU851&tbm=vid&sxsrf=ACQVn0_V-hYKbFtkWHTUjAN-p_NeOUdiQg:1713865668271&q=install+app+from+testflight&sa=X&ved=2ahUKEwjz9uWSh9iFAxXVs1YBHavTDPIQ8ccDegQIEhAF&biw=1865&bih=845&dpr=1#fpstate=ive&vld=cid:1d194f0e,vid:AmQyB-AADhE,st:0)
 - Android Installation: Please refer to the [Android Installation Guide](https://learn.microsoft.com/en-us/appcenter/distribution/testers/testing-android)
 
 ## User Guide

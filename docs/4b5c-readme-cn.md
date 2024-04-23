@@ -9,7 +9,7 @@ permalink: /4b5c-cn/
 
 ## 安装
 
-- iOS 安装：请参考 [iOS 安装文档](https://learn.microsoft.com/en-us/appcenter/distribution/testers/testing-ios)
+- iOS 安装：请参考 [使用 TestFlight 测试App](https://www.google.com/search?sca_esv=f9e9aef3ae3c6c42&rlz=1C5CHFA_enAU851AU851&tbm=vid&sxsrf=ACQVn0_V-hYKbFtkWHTUjAN-p_NeOUdiQg:1713865668271&q=install+app+from+testflight&sa=X&ved=2ahUKEwjz9uWSh9iFAxXVs1YBHavTDPIQ8ccDegQIEhAF&biw=1865&bih=845&dpr=1#fpstate=ive&vld=cid:1d194f0e,vid:AmQyB-AADhE,st:0)
 - Android 安装：请参考 [Andorid 安装文档](https://learn.microsoft.com/en-us/appcenter/distribution/testers/testing-android)
 
 ## 使用指南
