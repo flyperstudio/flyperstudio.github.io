@@ -16,12 +16,14 @@ permalink: /4b5c-cn/
 
 ### 1. 选择题目
 
-- 首页可以选择使用相机拍照或从照片中选择题目。<img src="https://www.flyperstudio.com/images/4b5c/main_page.png" width="200" />
+- 首页可以选择使用相机拍照或从照片中选择题目。<img src="https://www.flyperstudio.com/images/4b5c/main_page.jpeg" width="200" />
 - 选择图片后，可以进行剪裁，确保图片中只有一道题目。<img src="https://www.flyperstudio.com/images/4b5c/image_crop.png" width="200" />
 
 ### 2. 解析题目
 
-- 点击“解析”按钮，等待约 1 分钟，后台将给出解析结果。<img src="https://www.flyperstudio.com/images/4b5c/analysis_image.png" width="200" />
+- 点击“解析”按钮，等待约 1 分钟，后台将给出解析结果。
+- 如果你发现AI给出的答案不准确，点击 "report incorrect answer" 填入正确答案和解释。<img src="https://www.flyperstudio.com/images/4b5c/analysis_image.jpeg" width="200" />
+注意，这个结果和图片会上传到服务器，请为你的题目的版权问题负责。
 
 ### 3. 保存解析
 

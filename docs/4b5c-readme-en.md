@@ -16,12 +16,15 @@ permalink: /4b5c-en/
 
 ### 1. Select Question
 
-- On the homepage, you can choose to take a picture with the camera or select a picture from your photo album.<img src="https://www.flyperstudio.com/images/4b5c/main_page.png" width="200" />
+- On the homepage, you can choose to take a picture with the camera or select a picture from your photo album.<img src="https://www.flyperstudio.com/images/4b5c/main_page.jpeg" width="200" />
 - After selecting the picture, you can crop it to ensure that there is only one question in the picture.<img src="https://www.flyperstudio.com/images/4b5c/image_crop.png" width="200" />
 
 ### 2. Analyze Question
 
-- Click the "Analyze" button and wait for about 1 minute. The background will provide the analysis result.<img src="https://www.flyperstudio.com/images/4b5c/analysis_image.png" width="200" />
+- Click the "Analyze" button and wait for about 1 minute. The background will provide the analysis result.
+- If you find that the answer given by AI is inaccurate, click "report incorrect answer" to fill in the correct answer and explanation.
+<img src="https://www.flyperstudio.com/images/4b5c/analysis_image.jpeg" width="200" />
+Note that the results and pictures will be uploaded to the server. Please be responsible for the copyright issues of your topic.
 
 ### 3. Save Solution
 
