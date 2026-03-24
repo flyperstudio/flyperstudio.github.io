@@ -85,3 +85,10 @@ docker pull ghcr.io/flyperstudio/eightlegsessay-client:latest
 <img src="https://www.flyperstudio.com/images/ELES/docker-image-launch.png" />
 
 下次需要使用 ELES 时，点击 Start 即可继续使用同一个容器。
+
+## 安装视频
+
+<video controls width="100%">
+   <source src="https://www.flyperstudio.com/images/ELES/ELES-setup-CN.mp4" type="video/mp4" />
+   Your browser does not support the video tag.
+</video>

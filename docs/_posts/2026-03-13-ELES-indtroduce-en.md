@@ -88,3 +88,10 @@ In the image below, you can see the Stop button in Docker Desktop:
 
 When you need ELES again, click Start to run the same container.
 
+## Setup Video
+
+<video controls width="100%">
+   <source src="https://www.flyperstudio.com/images/ELES/ELES-setup-EN.mp4" type="video/mp4" />
+   Your browser does not support the video tag.
+</video>
+
